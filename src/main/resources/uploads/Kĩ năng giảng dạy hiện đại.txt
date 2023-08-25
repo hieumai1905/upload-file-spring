@@ -1,0 +1,155 @@
+Phần 1: Thiết lập mục tiêu học tập
+
+* Thang BLOOM gồm 6 cấp độ:
+	- các cấp độ: (nhớ, hiểu) - (áp dụng, phân tích) _ (Đánh giá, sáng tạo).
+		+ nhớ: nhắc lại thông tin(xác định, miêu tả, gọi tên, nhận biết, viết, tìm, kể tên, nói...)
+		+ hiểu: có thể giải thích, diễn giải khái niệm(giải thích, phân biệt, khái quát hóa...)
+		+ áp dụng: áp dụng thông tin đã biết vào một tình huống(vận dụng, áp dụng, tính toán, chúng minh, giải thích...)
+		+ phân tích: chia thông tin thành những phần nhỏ và chỉ ra mỗi liên hệ tới tổng thể.
+		+ đánh giá: cho ý kiến bình luận, tổng hợp.
+		+ sáng tạo: thiết kế tạo nên, phát minh, sáng tác, dự đoán, đề xuất...
+
+* Mô hình phát triển kỹ năng
+	- Mô hình dreyfus:
+		+ các cấp độ trưởng thành của 1 kỹ năng:
+			- chưa kinh nghiệm -> nhập môn -> có năng lực -> thành thạo -> tinh thông
+			1, tuân thủ các nguyên tắc, bắt trước và làm theo
+			2, linh hoạt hơn, hành động khác chút, vẫn cần hướng dẫn
+			3, thích ứng với các tình huống, có thể đưa ra khái niệm sơ khai, có thể độc lập , có thể hướng dẫn nhưng chưa thể tự đánh giá bản thân
+			4, liên kết các vấn đề riêng lẻ, tự sửa sai, tùy biến điều chỉnh, mẫu hiệu quả, làm việc độc lập hiệu quả
+			5, làm việc theo trực giác, phản ứng nhanh(có được lo liên kết giữa các kinh nghiệm).
+	-> các học nhanh một kĩ năng mới:
+		1, tập trung tìm hiểu các quy tắt, thiết lập mục tiêu cụ thể
+		2, bắt đầu thử nghiệm các quy tắt
+		3, học từ thất bại, thử nghiệm các cách áp dụng kiến thức vào thực tế
+		4, đầu tư thời gian, rèn luyện nghiên cứu về nó.
+		5, nhiều thời gian thực hành, đưa ra đánh giá, cải tiến
+
+
+* Thiết kế mục tiêu học tập
+	Ba thành phần chính
+		- mục tiêu
+		- đánh giá
+		- chiến lược giảng dạy
+		
+		+ Mục tiêu: Lấy học sinh làm trung tâm và viết ra các câu hỏi mấu chốt để thiết lập mục tiêu hiệu quả.
+			? Sau khi kết thúc khóa học, học viên có thể ................?
+		+ nên chia nhỏ mục tiêu: kỹ năng lớn được tổng hợp từ các kỹ năng thành phần. để có chiến lược hiệu quả
+		+ nên sử dụng động từ hành động: cho phép đo lượng mức độ đạt được
+		+ làm rõ kết quả mong muốn: Kiến thức, kỹ năng, thái độ
+		+ Khảo sát: Kinh nghiệm, vấn đề, kỳ vọng.
+		+ tham khảo các động từ bloom
+		+ chỉnh sửa khi có thực tế giảng dạy
+
+
+Phần 2: Giảng bài hiệu quả
+
+* 7 bước để giảng bài hiệu quả:
+	- Lập kế hoạch là một trong nhưng việc quan trọng trong việc giảng dạy: là mô tả có tổ chức, hoạt động, tài nguyên, hướng dẫn, hướng tới mục tiêu.
+	- bản kế hoạch gồm: 
+		+ mục tiêu của buổi học 
+		+ thời gian học tập
+		+ nội dung học tập
+		+ hoạt động
+		+ kiểm tra gì để xem học sinh nắm được kiến thức hay chưa
+		+ tài liệu
+
+	1, thu thập thông tin: kỳ vọng của người học, kinh nghiệm, kỹ năng hiện có.
+	2, xác định mục tiêu học tập: theo mô hình smart
+	3, làm rõ các chủ đề
+	4, tổ chức việc học tập
+	5, chuẩn bị kiểm ra đánh giá
+	6, phân bổ thời gian
+	7, kiểm tra lại hậu cần
+
+* giảng dạy theo mô hình Gagne
+	- là mô hình gồm 9 bước
+		1, Tạo sự chú 
+		2, Thông báo về mục tiêu bài học
+		3, Ôn tập kiến thức cũ
+		4, Trình bày nội dung
+		5, Cung cấp hướng dẫn học tập
+		6, Luyện tập để tăng hiệu suất
+		7, Cung cấp phản hồi, đánh giá
+		8, Đánh giá việc học tập
+		9, Củng cố và chuyển đổi
+	- các câu hỏi để đánh giá việc giảng dạy:
+		+ Các mục tiêu đã được đáp ứng chưa?
+		+ Cách tổ chức giảng dạy trong buổi học có gì tốt hơn so với các cũ hoặc buổi khác không?
+		+ Cách tổ chức hôm nay tạo ra những hiệu ứng hay phản ứng nào từ người học?
+
+* Kĩ năng đặt câu hỏi:
+	Tại sao phải hỏi khi giảng dạy:
+		- sử dụng câu hỏi giúp việc học hiệu quả hơn
+		- kết quả sẽ tốt hơn nếu biết tự chuẩn bị và giải đáp các câu hỏi.
+	Hỏi để làm gì
+		- thu thập thông tin
+		- thêm hiểu biết
+		- kích thích học hỏi
+		- tìm ra nguyên nhân
+		- tìm ra giải pháp
+		- kiểm tra kiến thức mình biết
+
+	Nền tảng cho sự hỏi đáp hiểu quả
+		- an toàn
+		- lắng nghe
+		- chấp nhận ý kiến trái chiều
+		- tập trung vấn đề, không phán xét
+	
+	Kỹ năng đặt câu hỏi
+		- các loại câu hỏi
+		- quy trình hỏi đáp
+		- phương pháp hỏi Scorates
+		- câu hỏi theo thang bloom
+		- khi nào dùng câu hỏi gì
+	+ Hỏi trực tiếp/gián tiếp hoặc đóng hoặc mở vấn đề cần hỏi
+	+ Nhóm câu hỏi phân loại theo mục đích
+		1, Câu hỏi làm rõ khái niệm/vấn đề
+		2, Điều tra các giả định
+		3, Điều tra lý do, nguyên nhân và bằng chứng
+		4, Hỏi câu hỏi về quan điểm và lập trường
+		5, Điều tra ý nghĩa và hậu quả
+		6, Điều tra nguồn gốc thông tin (5W2H).
+		Các câu hỏi mở: - vậy thực ra bạn đang muốn hỏi điều gì?
+				- bạn có thể hỏi điều gì khác không?
+				- điều đó có nghĩa là gì?
+
+	+ Quy trình hỏi: 
+		- chuẩn bị: Mục đích việc hỏi, hỏi ai, hỏi để làm gì?
+		- hỏi: Đặt câu hỏi và để cho người được hỏi có thời gian suy nghĩa và trả lời
+		- lắng nghe: Ghi các ý chính khi nghe, nhớ các ẩn ý
+		- phản hồi: Nhắc lại ý trả lời, bám đuổi ý.
+
+	+ Phương pháp Socrates trong giảng dạy
+		1, xác định một tuyên bố là 'lẽ thường'
+		2, tìm điều kiện/hoàn cảnh mà tuyên bố đó là sai
+		3, nếu thấy ngoại lệ, thì tuyên bố đó là sai
+		4, tuyên bố ban dầu không được làm mềm đi để phù hợp với các ngoại lệ
+		5, lặp lại các bước nếu thấy các ngoại lệ
+		6, sản phẩm của tư duy luôn ưu việt hơn sản phẩm của trực giác
+	=> Nên không ngừng đặt câu hỏi. Sự tò mò là có lý do của nó.
+
+* Sử dụng công nghệ để hỗ trợ học tập
+	- sử dụng nguồn học liệu miễn phí
+	- thu thập phản hồi
+	- sử dụng công nghệ của google(drive, classroom...)
+	- phần mềm trao đổi(skype..)
+	- kiểm tra online với Kahoot
+	=> Công nghệ là công cụ hỗ trợ dạy học đắc lực, nhưng phải dùng nó một cách phù hợp để đạt được đúng mục tiêu học tập.
+	
+
+Phần 4: Giao tiếp hiệu quả
+
+* Cách quản lí lớp hiệu quả
+	- là quá trình có thể kiểm soát định hướng việc học trong lớp bằng các kỹ thuật quản lí lớp học hiệu quả để: dữ cho học viên có tổ chức, có trật tự và tập trung
+		+ chăm xóc bản thân tốt
+		+ xây dựng mối quan hệ với học viên
+		+ thiết lập quy tắt(cam kết kỷ luật trước khi lớp học diễn ra...)
+		+ phản hồi(đúng | sai)
+		+ viết hợp đồng nhóm
+		+ xử lý nhanh hành vi chưa phù hợp
+		+ sử dụng giao tiếp phi ngôn ngữ
+xz
+		
+
+		
